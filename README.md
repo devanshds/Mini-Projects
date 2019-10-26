@@ -12,3 +12,10 @@ This repository contains all the snips of code that I create while learning diff
    ### What I learned:
    -  System file manipulation
    -  datetime package
+   
+## Webmap Population:
+  A python based webmap which uses Folium to implement the webmap functionalities and various folium features to add polygonal layers based on the World Population and also displays position of all volcanoes in USA. It is a layered map and uses OpenStreetMap and GeoJson for presentation of the datasets.
+   ### What I learned:
+   -  folium library
+   -  layer control
+   -  GeoJson
