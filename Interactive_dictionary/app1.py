@@ -1,3 +1,4 @@
+# Check high character count words
 import json
 from difflib import get_close_matches
 
