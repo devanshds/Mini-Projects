@@ -28,7 +28,7 @@ This repository contains all the snips of code that I create while learning diff
   - Deploying a website on Heroku
   
 ## 5. Database Application:
-  A Desktop Database application that uses Python and Tkinter to convert the backend code into a GUI application that is bundled up together in a single executable file. It uses SQLite3 so the database can be worked on any machine.
+  A Desktop Database application that uses Python and Tkinter to convert the backend code into a GUI application that is bundled up together in a single executable file. It uses SQLite3 so the database can be worked on any machine. The application has been designed to gather book details and modify them.
   
  ### What I learned:
  -  Tkinter
