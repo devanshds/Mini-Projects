@@ -1,7 +1,7 @@
 # Mini-Projects
 This repository contains all the snips of code that I create while learning different Python packages
 
-## 1. Interactive_Dictionary:
+## 1. Interactive Dictionary:
   An interactive dictionary that takes any word from a user, extracts data from a JSON dataset, and returns the definition of the word. It also accounts for misspelled words.
   ### What I learned :
   - Working with JSON
@@ -29,9 +29,15 @@ This repository contains all the snips of code that I create while learning diff
   
 ## 5. Database Application:
   A Desktop Database application that uses Python and Tkinter to convert the backend code into a GUI application that is bundled up together in a single executable file. It uses SQLite3 so the database can be worked on any machine. The application has been designed to gather book details and modify them.
-  
  ### What I learned:
  -  Tkinter
  -  sqlite3
  -  PostgreSQL
  -  pyinstaller : packaging python files
+ 
+## 5. Web Scraper:
+  A simple Web scraping application that scrapes property listings from Magicbricks.com and converts them into a dataset with the help of pandas. It is missing crawlers and I will turn this into a standalone application which you can find on my profile. Feel free to edit the magicbricks URL in request section to generate CSV file of listings of any area on magicbricks.
+  ### What I learned:
+  - Scraping source code for data  
+  - beautifulsoup4
+  - requests
